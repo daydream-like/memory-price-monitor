@@ -1,0 +1,186 @@
+{
+  "categories": {
+    "三星SSD": {
+      "description": "三星消费级NVMe/SATA固态硬盘",
+      "products": [
+        {
+          "sku": "100012781866",
+          "name": "三星 990 PRO 2TB NVMe M.2 SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100012781864",
+          "name": "三星 990 PRO 1TB NVMe M.2 SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100027787528",
+          "name": "三星 990 EVO 2TB NVMe M.2 SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100027787526",
+          "name": "三星 990 EVO 1TB NVMe M.2 SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100009695498",
+          "name": "三星 980 PRO 2TB NVMe M.2 SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100009695494",
+          "name": "三星 980 PRO 1TB NVMe M.2 SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100007182940",
+          "name": "三星 870 EVO 1TB SATA SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100007182942",
+          "name": "三星 870 EVO 2TB SATA SSD",
+          "brand": "Samsung"
+        },
+        {
+          "sku": "100007182944",
+          "name": "三星 870 EVO 4TB SATA SSD",
+          "brand": "Samsung"
+        }
+      ]
+    },
+    "SK海力士SSD": {
+      "description": "SK海力士消费级NVMe固态硬盘",
+      "products": [
+        {
+          "sku": "100038635754",
+          "name": "SK海力士 Platinum P41 2TB NVMe SSD",
+          "brand": "SK Hynix"
+        },
+        {
+          "sku": "100038635752",
+          "name": "SK海力士 Platinum P41 1TB NVMe SSD",
+          "brand": "SK Hynix"
+        },
+        {
+          "sku": "100038635750",
+          "name": "SK海力士 Platinum P41 500GB NVMe SSD",
+          "brand": "SK Hynix"
+        }
+      ]
+    },
+    "美光英睿达SSD": {
+      "description": "美光/英睿达消费级NVMe固态硬盘",
+      "products": [
+        {
+          "sku": "100039896916",
+          "name": "英睿达 T500 2TB NVMe M.2 SSD",
+          "brand": "Crucial"
+        },
+        {
+          "sku": "100039896914",
+          "name": "英睿达 T500 1TB NVMe M.2 SSD",
+          "brand": "Crucial"
+        },
+        {
+          "sku": "100017453476",
+          "name": "英睿达 P5 Plus 2TB NVMe M.2 SSD",
+          "brand": "Crucial"
+        },
+        {
+          "sku": "100017453474",
+          "name": "英睿达 P5 Plus 1TB NVMe M.2 SSD",
+          "brand": "Crucial"
+        }
+      ]
+    },
+    "西部数据SSD": {
+      "description": "西部数据消费级NVMe固态硬盘",
+      "products": [
+        {
+          "sku": "100013189392",
+          "name": "西部数据 SN850X 2TB NVMe SSD",
+          "brand": "WD"
+        },
+        {
+          "sku": "100013189390",
+          "name": "西部数据 SN850X 1TB NVMe SSD",
+          "brand": "WD"
+        },
+        {
+          "sku": "100019009584",
+          "name": "西部数据 SN770 2TB NVMe SSD",
+          "brand": "WD"
+        },
+        {
+          "sku": "100019009582",
+          "name": "西部数据 SN770 1TB NVMe SSD",
+          "brand": "WD"
+        }
+      ]
+    },
+    "DDR5台式机内存": {
+      "description": "DDR5台式机内存条",
+      "products": [
+        {
+          "sku": "100035117268",
+          "name": "金士顿 FURY Beast 32GB DDR5 5600MHz",
+          "brand": "Kingston"
+        },
+        {
+          "sku": "100035117266",
+          "name": "金士顿 FURY Beast 16GB DDR5 5600MHz",
+          "brand": "Kingston"
+        },
+        {
+          "sku": "100035147860",
+          "name": "英睿达 32GB DDR5 5600MHz",
+          "brand": "Crucial"
+        },
+        {
+          "sku": "100035147858",
+          "name": "英睿达 16GB DDR5 5600MHz",
+          "brand": "Crucial"
+        },
+        {
+          "sku": "100027925542",
+          "name": "芝奇 幻锋戟 32GB*2 DDR5 6000MHz",
+          "brand": "G.Skill"
+        },
+        {
+          "sku": "100029788864",
+          "name": "海盗船 复仇者 32GB*2 DDR5 5600MHz",
+          "brand": "Corsair"
+        }
+      ]
+    },
+    "DDR4台式机内存": {
+      "description": "DDR4台式机内存条",
+      "products": [
+        {
+          "sku": "100011186078",
+          "name": "金士顿 FURY Beast 16GB DDR4 3200MHz",
+          "brand": "Kingston"
+        },
+        {
+          "sku": "100011186080",
+          "name": "金士顿 FURY Beast 32GB DDR4 3200MHz",
+          "brand": "Kingston"
+        },
+        {
+          "sku": "100007893698",
+          "name": "英睿达 16GB DDR4 3200MHz",
+          "brand": "Crucial"
+        },
+        {
+          "sku": "100007893700",
+          "name": "英睿达 32GB DDR4 3200MHz",
+          "brand": "Crucial"
+        }
+      ]
+    }
+  },
+  "last_updated": "2026-01-23",
+  "notes": "已剔除HBM和企业级产品（京东不销售）。SKU需要首次运行后验证，如有失效请在京东搜索对应产品并更新SKU。获取方法：打开京东商品页，从URL中获取数字（如 item.jd.com/100012781866.html 中的 100012781866）。"
+}
