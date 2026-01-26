@@ -64,6 +64,19 @@
         "DDR5 UDIMM 32GB 5600": 260.0,
         "DDR5 UDIMM 32GB 6000": 270.0
       }
+    },
+    {
+      "date": "2026-01-26",
+      "timestamp": "2026-01-26T06:40:43.277710",
+      "prices": {
+        "DDR4 UDIMM 8GB 3200": 47.0,
+        "DDR4 UDIMM 16GB 3200": 90.0,
+        "DDR4 UDIMM 32GB 3200": 160.0,
+        "DDR5 UDIMM 16GB 5600": 160.0,
+        "DDR5 UDIMM 16GB 6000": 170.0,
+        "DDR5 UDIMM 32GB 5600": 260.0,
+        "DDR5 UDIMM 32GB 6000": 270.0
+      }
     }
   ],
   "last_prices": {
